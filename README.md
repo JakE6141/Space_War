@@ -12,3 +12,4 @@ a fun challenge.
 * Shooting - the shooting for the hero is done by pressing the space bar. The bullets are a bit faster than the spaceships so if you want to attack from behind you can. When the bullets contact the other spaceships you can see a explosion showing they have been hit, along with a sound being played. When it comes to the aliens bullets they have about the same speed but for the last alien the spaceship fires four bullets in a tighter spread.
 * Lives - you are given four lives, when you are hit with a bullet you lose one. As of now their is no way to regain a heart.
 * Win/Lose Screen - these end screens explain if you have won or lost, after losing you can try again, after winning you can just exit.
+# Screenshots and Demo
