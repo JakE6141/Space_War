@@ -13,3 +13,7 @@ a fun challenge.
 * Lives - you are given four lives, when you are hit with a bullet you lose one. As of now their is no way to regain a heart.
 * Win/Lose Screen - these end screens explain if you have won or lost, after losing you can try again, after winning you can just exit.
 # Screenshots and Demo
+These images are full screen to show clarity. The actual game is meant to be a small window just meant for a quick fun challenging game when bored.
+
+![play screem](images/playScreen)
+![game play](gamePlay)
