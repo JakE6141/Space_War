@@ -13,7 +13,10 @@ a fun challenge.
 * Lives - you are given four lives, when you are hit with a bullet you lose one. As of now their is no way to regain a heart.
 * Win/Lose Screen - these end screens explain if you have won or lost, after losing you can try again, after winning you can just exit.
 # Screenshots and Demo
-These images are full screen to show clarity. The actual game is meant to be a small window just meant for a quick fun challenging game when bored.
+These images are full screen to show clarity. The actual game is meant to be a small window just meant for a quick fun challenging game when bored. The bullets may seem like they are not coming out of the alien spaceships but it is just the image. Watch the video for full clarity if needed.
 
 ![play screem](images/playScreen)
-![game play](gamePlay)
+![gameplay](combatOneScreen)
+![gameplay](combatTwoScreen)
+![gameplay](combatFourScreen)
+![gameplay](combatThreeScreen)
