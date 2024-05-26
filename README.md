@@ -16,7 +16,7 @@ a fun challenge.
 These images are full screen to show clarity. The actual game is meant to be a small window just meant for a quick fun challenging game when bored. The bullets may seem like they are not coming out of the alien spaceships but it is just the image. Watch the video for full clarity if needed.
 
 ![play screem](images/playScreen)
-![gameplay](combatOneScreen)
-![gameplay](combatTwoScreen)
-![gameplay](combatFourScreen)
-![gameplay](combatThreeScreen)
+![gameplay](images/combatOneScreen)
+![gameplay](images/combatTwoScreen)
+![gameplay](images/combatFourScreen)
+![gameplay](images/combatThreeScreen)
