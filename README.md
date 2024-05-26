@@ -20,3 +20,4 @@ These images are full screen to show clarity. The actual game is meant to be a s
 ![gameplay](images/combatTwoScreen)
 ![gameplay](images/combatFourScreen)
 ![gameplay](images/combatThreeScreen)
+![gameplay](images/loseScreen)
