@@ -21,5 +21,6 @@ These images are full screen to show clarity. The actual game is meant to be a s
 ![gameplay](images/combatThreeScreen)
 ![gameplay](images/loseScreen)
 
+The demo below shows the game and the two possible endings to it, the losing screen and wining screen.
 ## Demo Link
 Link: https://youtu.be/P4Bgm7PGUnU
